@@ -20,16 +20,6 @@ https://apidoc.gitee.com/free/Mybatis_PageHelper
 
 APIs: https://apidoc.gitee.com/free/Mybatis_PageHelper/com/github/pagehelper/page/PageMethod.html
 
-## 新书《MyBatis 从入门到精通》
-
-![MyBatis 从入门到精通](https://github.com/mybatis-book/book/raw/master/book.png)
-
-预售地址：[京东](https://item.jd.com/12103309.html)，[当当](http://product.dangdang.com/25098208.html)，[亚马逊](https://www.amazon.cn/MyBatis从入门到精通-刘增辉/dp/B072RC11DM/ref=sr_1_18?ie=UTF8&qid=1498007125&sr=8-18&keywords=mybatis)
-
-CSDN博客：http://blog.csdn.net/isea533/article/details/73555400
-
-GitHub项目：https://github.com/mybatis-book/book
-
 ## Support [MyBatis 3.1.0+](https://github.com/mybatis/mybatis-3)
 ## Physical Paging
 
